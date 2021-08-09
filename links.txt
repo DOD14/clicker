@@ -1,0 +1,70 @@
+http://bokinpark.com/ img[src='cimg/1.jpg']
+http://bokinpark.com/ img[src='cimg/2.jpg']
+http://cannecy.free.fr/iforest/en/ img[src='../chene.jpg']
+http://cannecy.free.fr/solar/ img[src='logo_sol.JPG']
+http://cannecy.free.fr/waste/ img[src='clean2.GIF']
+http://dobrewychowanie.pl/klikanie/index.php/klikaj-w-skrzynie a[href='/klikanie/?task=addClick'] #colorbox
+http://www.cancerdemama.com.br/9-Objetivo.asp .img-responsive
+http://www.diewaldseite.de/ #stopbtn #bannergroup
+http://www.ecologyfund.com/ecology/_donate_pol.html
+http://www.ecologyfund.com/ecology/_donate_rainforest.html
+http://www.ecologyfund.com/ecology/_donate_species.html
+http://www.ecologyfund.com/ecology/_donate_us.html
+https://arab.org/click-to-help/children .img_pointer #do-more
+https://arab.org/click-to-help/palestine .img_pointer #do-more
+https://arab.org/click-to-help/poverty .img_pointer #do-more
+https://arab.org/click-to-help/refugees .img_pointer #do-more
+https://arab.org/click-to-help/women .img_pointer #do-more
+https://barkingmad.co.za/click-to-feed-2019-2/ #clicktofeedlink
+https://barkingmad.co.za/click-to-feed-2019-2/ #clicktofeedlink
+https://barkingmad.co.za/click-to-feed-2019-2/ #clicktofeedlink
+https://bigcatrescue.org/get-involved/volunteer/i-care-click-to-feed-a-big-cat/ img[alt='feedabigcat']
+https://greatergood.com/clicktogive/alz/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/ars/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/aut/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/bcs/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/dbs/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/ggc/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/lit/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/ths/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/trs/home .btn-primary .img-responsive
+https://greatergood.com/clicktogive/vet/home .btn-primary .img-responsive
+https://naturarvet.se/ a[href='/stod-oss']
+https://porloschicos.com/regalometro.php .home-donar .ubicacion
+https://www.animalwebaction.com/en/ .dry .thanks
+https://www.animalwebaction.com/en/don-gratuit/boites/?source=menu .Wet .thanks
+https://www.animalwebaction.com/en/don-gratuit/couvertures/?source=menu a[href='javascript://'].btn-large .thanks
+https://www.animalwebaction.com/en/don-gratuit/granules/?source=menu .pellets .thanks
+https://www.clicanimaux.com/?sites_id=1?sites_id=1 #clic1 .merci-post-clic
+https://www.clicanimaux.com/?sites_id=2?sites_id=2 #clic1 .merci-post-clic
+https://www.clicanimaux.com/?sites_id=3?sites_id=3 #clic1 .merci-post-clic
+https://www.clicanimaux.com/?sites_id=4?sites_id=4 #clic1 .merci-post-clic
+https://www.clicanimaux.com/?sites_id=5?sites_id=5 #clic1 .merci-post-clic
+https://www.freekibble.com/ .trivia-answer-dog
+https://www.freekibble.com/kat/ .trivia-answer-kat
+https://www.freekibble.com/litter/ .litter-click #litter-reward
+https://www.freetheocean.com/ .forminator-answer--design #success_percentage_quiz
+https://www.greinermaltz.com/pages/Charity.aspx
+https://www.pajacyk.pl/#index .pajacyk__clickbox
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/animal-testing #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/big-cats #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/breast-cancer #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/children #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/climate-change #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/dog-fighting #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/hunger #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/ivory-trade #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/oceans #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/primates #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/rainforests #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/reefs #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/sea-turtles #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/trapping #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/veterans #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/violence #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/water-pollution #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/whales-and-dolphins #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/wolves #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.shopforyourcause.com/click-to-donate-bonus-cause/yulin-festival #click-to-donate-bonus-donate-link .remind-me-daily-link
+https://www.tchforegon.org/counter-test
+https://www.woordendaad.nl/geven/gratis-doneren/ #gform_submit_button_8 #gform_confirmation_message_8
